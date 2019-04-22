@@ -1,0 +1,12 @@
+{
+    "ID":"11712B931B9D4A3A8BF21BA8CD195341",
+    "ActionKeyword":"imask",
+    "Name":"InvertedMask",
+    "Description":"Find inverted subnet mask from / format",
+    "Author":"Rando",
+    "Version":"1.0.0",
+    "Language":"python",
+    "Website":"https://github.com/Rand-o",
+    "IcoPath":"Images\\alias.png",
+    "ExecuteFileName":"main.py"
+}
